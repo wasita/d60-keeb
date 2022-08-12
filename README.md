@@ -1,6 +1,6 @@
 # d60-keeb
 
-[photo of keeb](https://github.com/wasita/d60-keeb/blob/main/20220812.png?raw=true)
+![keeb photo](https://github.com/wasita/d60-keeb/blob/main/20220812.png?raw=true)
 
 ## current keeb layout
 
