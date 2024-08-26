@@ -2,11 +2,23 @@
 
 ![keeb photo](https://github.com/wasita/d60-keeb/blob/main/20220812.png?raw=true)
 
-## current keeb layout
+## layers
 
-- layer0: default
-- layer1: WASD arrow keys
-- layer2: lighting effects
+### layer0: default
+
+![layer0](https://github.com/wasita/d60-keeb/blob/main/dz60rgb_ansi_v2_layer0.png?raw=true)
+
+### layer1: WASD, ~
+
+![layer1](https://github.com/wasita/d60-keeb/blob/main/dz60rgb_ansi_v2_layer1.png?raw=true)
+
+- `alt + WASD` for arrow keys
+- `alt + shift + esc` for `~`
+
+### layer2: lighting effects
+
+![layer2](https://github.com/wasita/d60-keeb/blob/main/dz60rgb_ansi_v2_layer2.png?raw=true)
+
 
 ## general specs
 
