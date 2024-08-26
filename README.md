@@ -16,20 +16,17 @@
 - plate: injection polycarbonate
 - stabilizers: cherry screw-in stabs
 - silicon socks
-- mute mat
-- tape mod + bottom foam
 - typing angle: 6°
 - structure: leaf spring mount
 - layout: 60% WK
 
-### keycaps
+### mods
 
+- mute mat
+- tape mod + bottom foam
 - cherry profile epbt keycaps
-
-## product links
-
+- [leobog graywood v3 switches](https://epomaker.com/products/leobog-graywood-v3-switch-set)
 - [kbdfans d60 lite x epbt acid house & sweet girl](https://kbdfans.com/products/ic-kbd-d60-lite-x-epbt-acid-house-sweet-girl-keycaps?variant=39425607499915)
-
 - [epbt acid house & sweet girl keycaps](https://kbdfans.com/products/ic-epbt-psychedelic-x-sweet-girl-keycaps)
 
 ## build resources
